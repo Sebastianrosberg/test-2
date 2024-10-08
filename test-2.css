@@ -29,3 +29,25 @@ main {
     width: 150px;
     margin: 50px auto 50px auto;
 }
+
+.box-2 {
+    display: grid;
+    grid-template-columns: 125px 125px;
+    grid-template-rows: 125px 125px;
+}
+
+.ett {
+    background-color: #d1b586;
+}
+
+.två {
+    background-color: #865433;
+}
+
+.tre {
+    background-color: #ad8763;
+}
+
+.fyra {
+    background-color: #af7c4d;
+}
