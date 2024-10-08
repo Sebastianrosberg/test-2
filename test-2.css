@@ -17,3 +17,15 @@ main {
     grid-template-rows: 250px 250px;
 
 }
+
+.box-1 {
+    background-color: #af7c4d;
+}
+
+.cirkel {
+    background-color: #352e27;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    margin: 50px auto 50px auto;
+}
