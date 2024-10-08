@@ -57,3 +57,11 @@ img {
     width: 100%;
     object-fit: cover;
 }
+
+.box-4 {
+    background-color: #d1b586;
+    text-align: center;
+    display: grid;
+    align-items: center;
+
+}
